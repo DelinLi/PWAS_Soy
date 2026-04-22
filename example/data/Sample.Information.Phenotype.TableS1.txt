@@ -1,0 +1,201 @@
+ReSeq_ID	RNASeq	Sub.Population	Pubescence.Color	Grade_SCN3	FT	Name	Speices	Type	Country	Province.State
+16NF1065_1066	19NC2104		tawny	3	24	FangZhengMoShiDou	G.max	Landrace	China	HeiLongJiang
+16NF109_110	19NC2021	Am	gray	4	24	Dunn	G.max	Improved_cultivar	United_States	Wisconsin
+16NF1245_1246	19NC2119	NR	gray	4	23	SuiNong6Hao	G.max	Improved_cultivar	China	HeiLongJiang
+16NF1341_1342	19NC2129	NR	gray	4	24	HeiHe5Hao	G.max	Improved_cultivar	China	HeiLongJiang
+16NF1353_1354	19NC2130	NR	gray	3	21	DongNong47-1C	G.max	Improved_cultivar	China	HeiLongJiang
+16NF1363_1364	19NC2132			4	23	JiLinXiaoLi1Hao	G.max	Improved_cultivar	China	JiLin
+16NF1387_1388	19NC2136	NR	gray	3	22	HeiSheng101	G.max	Improved_cultivar	China	HeiLongJiang
+16NF1519_1520	19NC2155	NR	gray	3	22	HeiHe38	G.max	Improved_cultivar	China	HeiLongJiang
+16NF153_154	19NC2025	Am	gray	3	31	Epps	G.max	Improved_cultivar	United_States	Mississippi
+16NF1531_1532	19NC2156	NR	gray	3	22	HeiHe50	G.max	Improved_cultivar	China	HeiLongJiang
+16NF1539_1540	19NC2158	NR	gray	3	22	KenFeng16	G.max	Improved_cultivar	China	HeiLongJiang
+16NF1561_1562	19NC2162		gray	3	23	DongNong50	G.max	Improved_cultivar	China	HeiLongJiang
+16NF1589_1590	19NC2165	NR	gray	3	22	HeiHe51hao	G.max	Improved_cultivar	China	HeiLongJiang
+16NF1591_1592	19NC2166	NR	gray	3	22	HeiHe43	G.max	Improved_cultivar	China	HeiLongJiang
+16NF1663_1664	19NC2171	NR	gray	4	23	Ke09-95	G.max	Improved_cultivar	China	HeiLongJiang
+16NF1729_1730	19NC2177		tawny	3	22	JiLinCaiLiXiang	G.max	Landrace	China	JiLin
+16NF1731_1732	19NC2178	NR	gray	3	23	ChangNong16	G.max	Improved_cultivar	China	JiLin
+16NF1811_1812	19NC2185	CR	gray	3	30	LvDaDou1	G.max	Landrace	China	ShanXi
+16NF1839_1840					23	HuiPiZhiHeiDou	G.max	Landrace	China	ShanXi
+16NF187_188	19NC2030	Am	gray	3	26	Camp	G.max	Improved_cultivar	United_States	Virginia
+16NF189_190	19NC2031	Am	tawny	3	41	PR 165-50	G.max	Improved_cultivar		
+16NF1905_1906	19NC2192	SR	gray	3	27	YouBian30	G.max	Improved_cultivar	China	BeiJing
+16NF1909_1910	19NC2193	CR	gray	3	29	TongXianHuangDou	G.max	Landrace	China	BeiJing
+16NF1923_1924	19NC2195	CR	tawny	3	24	LaoHuHeiDou	G.max	Landrace	China	NingXia
+16NF1927_1928	19NC2196	CR	tawny	3	26	LouTianWaZiHeiDou	G.max	Landrace	China	NingXia
+16NF1929_1930	19NC2197		tawny	3	27	NiDingHuaMeiDou	G.max	Landrace	China	NingXia
+16NF193_194	19NC2033	Am	gray	2	33	M044-1	G.max	Improved_cultivar		
+16NF2001_2002	19NC2203		gray	2	27	DaHuangDou<1>	G.max	Landrace	China	ShanXi
+16NF209_210	19NC2036	NR	gray	3	26	Amcor 89	G.max	Improved_cultivar	United_States	Ohio
+16NF2107_2108	19NC2208		tawny	4	25	NiuYanJing	G.max	Landrace	China	ShanXi
+16NF211_212	19NC2037	Am	tawny	3	25	PI196160	G.max	Landrace	Japan	
+16NF2145_2146	19NC2214	CR	gray	1	29	HeiHeiDou3	G.max	Landrace	China	ShaanXi
+16NF2147_2148					29	NiuWeiBaHeiDou	G.max	Landrace	China	ShaanXi
+16NF2199_2200	19NC2224		tawny	3	25	YouHuangDou	G.max	Landrace	China	GanSu
+16NF223_224	19NC2039	CR	gray	2	25	Cloud	G.max	Improved_cultivar	United_States	
+16NF2241_2242	19NC2229	SR	tawny	3	27	LvHuangDou1	G.max	Landrace	China	GanSu
+16NF2243_2244	19NC2230	SR	gray	3	26	KeFeng14	G.max	Improved_cultivar	China	BeiJing
+16NF2257_2258	19NC2232	Am		3	25	ZhongDou27	G.max	Improved_cultivar	China	BeiJing
+16NF2293_2294	19NC2240	SR	gray	3	30	HeDou2Hao(MN413)	G.max	Improved_cultivar	China	AnHui
+16NF2299_2300	19NC2242	Am	gray	3	26	ZhongHuang35	G.max	Improved_cultivar	China	BeiJing
+16NF2305_2306	19NC2243	Am	tawny	4	26	JiDou17	G.max	Improved_cultivar	China	HeBei
+16NF2327_2328	19NC2246		tawny	3	27	QiHuang34	G.max	Improved_cultivar	China	ShanDong
+16NF239_240	19NC2042	Am	gray	4	26	Jack	G.max	Improved_cultivar	United_States	Illinois
+16NF2397_2398	19NC2251		gray	4	27	ZheXian5Hao	G.max	Improved_cultivar	China	ZheJiang
+16NF2417_2418	19NC2253		tawny	3	25	7561	G.max	Landrace	China	HeBei
+16NF249_250	19NC2043	Am	gray	3	22	CA5	G.max	Improved_cultivar	Canada	
+16NF2549_2550	19NC2257	SR	tawny	4	31	HongMianDou	G.max	Landrace	China	ShanDong
+16NF2565_2566	19NC2259	CR	gray	2	26	ZhengZhouXiaoZiHuangDou	G.max	Landrace	China	HeNan
+16NF2575_2576	19NC2260	SR	gray	3	28	RuNanPingDingShi	G.max	Landrace	China	HeNan
+16NF261_262	19NC2045	NR	gray	4	23	Corsoy	G.max	Improved_cultivar	United_States	Iowa
+16NF2667_2668	19NC2269	CR	tawny	1	27	BaYueZha1	G.max	Landrace	China	ShaanXi
+16NF2699_2700	19NC2270	SR	gray	4	30	TongShanPingDingWu	G.max	Landrace	China	JiangSu
+16NF2703_2704	19NC2271	CR	gray	3	28	PiXianRuanTiaoZhi	G.max	Landrace	China	JiangSu
+16NF271_272	19NC2047	Am	tawny	1	29	Bryan	G.max	Improved_cultivar	United_States	 Georgia
+16NF2739_2740	19NC2274	SR	gray	3	29	WuMing3	G.max	Landrace	China	AnHui
+16NF2767_2768	19NC2276	CR	tawny	1	25	DaHeiDou3	G.max	Landrace	China	Hebei
+16NF2791_2792	19NC2278	CR	tawny	1	27	JiangSeDou1	G.max	Landrace	China	HeBei
+16NF285_286					33	Pickett	G.max	Improved_cultivar	United_States	North Carolina
+16NF287_288	19NC2050	NR	gray	4	23	Ohio	G.max	Improved_cultivar	United_States	
+16NF2875_2876	19NC2285	SR	gray	3	31	HongHuangDou3	G.max	Landrace	China	ShaanXi
+16NF2889_2890	19NC2289	SR	tawny	4	29	MaHuangDou	G.max	Landrace	China	GanSu
+16NF2911_2912	19NC2293	Am	gray	1	27	Meng8206	G.max	Landrace	China	AnHui
+16NF2953_2954	19NC2295	SR	gray	4	27	QingDou8	G.max	Landrace	China	HeBei
+16NF3007_3008	19NC2299		tawny	3	28	YuanHeHuangDou	G.max	Landrace	China	GanSu
+16NF3013_3014	19NC2301	SR	gray	3	28	ChuXiu	G.max	Improved_cultivar	China	JiangSu
+16NF3049_3050	19NC2303	SR	gray	4	28	WuChangLiuYueBao	G.max	Landrace	China	HuBei
+16NF3063_3064	19NC2304	SR	gray	4	26	WuYueBai1	G.max	Landrace	China	ZheJiang
+16NF3075_3076	19NC2306	SR	gray	4	28	XiangDou3Hao	G.max	Improved_cultivar	China	HuNan
+16NF3085_3086	19NC2307	SR	tawny	3	29	HuaSeDou	G.max	Landrace	China	HuBei
+16NF3089_3090	19NC2308	SR		3	33	XiaoBaiMao	G.max	Landrace	China	SiChuan
+16NF31_32					23	TBD	G.max	Improved_cultivar	United_States	
+16NF3109_3110	19NC2309	SR	tawny	4	30	PiXianDaSanJiaoDou	G.max	Landrace	China	SiChuan
+16NF3137_3138	19NC2311	SR	tawny	4	32	ShiFangLuoSiDou	G.max	Landrace	China	SiChuan
+16NF3211_3212	19NC2315	SR	tawny	4	27	GuiChiNiuMaoHuang	G.max	Landrace	China	AnHui
+16NF3215_3216	19NC2316	SR	tawny	4	28	GaoGanHei	G.max	Landrace	China	AnHui
+16NF3219_3220	19NC2317	SR	gray	4	29	XiDou3Hao	G.max	Improved_cultivar	China	SiChuan
+16NF3259_3260	19NC2319	SR	gray	3	27	ZheChun3Hao	G.max	Improved_cultivar	China	ZheJiang
+16NF3277_3278	19NC2322	SR		3	28	DongAnZiPiDou	G.max	Landrace	China	HuNan
+16NF329_330	19NC2059	NR	gray	4	23	Amsoy	G.max	Improved_cultivar	United_States	Iowa
+16NF3305_3306	19NC2325	SR	gray	3	36	ErYeZiHuangDou	G.max	Landrace	China	GuiZhou
+16NF3325_3326	19NC2326	SR	tawny	4	31	LiangShuiBai	G.max	Landrace	China	GuangXi
+16NF3329_3330	19NC2327	Am	tawny	4	31	JinPengDou	G.max	Landrace	China	FuJian
+16NF3365_3366	19NC2331	SR	tawny		36	BaoGuHuang-8	G.max	Landrace	China	GuiZhou
+16NF3385_3386	19NC2333	SR	tawny	4	36	PoHuang	G.max	Landrace	China	GuangDong
+16NF3393_3394	19NC2334	SR	tawny	3	36	LuoDingQingDou	G.max	Landrace	China	GuangDong
+16NF3423_3424	19NC2338	SR	tawny	4	29	HeiDou17	G.max	Landrace	China	GuangXi
+16NF3427_3428	19NC2339		tawny	3	23	TaiWan2Hao	G.max	Landrace	China	TaiWan
+16NF343_344	19NC2063	Am	tawny	3	35	BRS 156	G.max	Improved_cultivar	Brazil	
+16NF3447_3448	19NC2340	SR	gray	4	37	121hao	G.max	Landrace	China	YunNan
+16NF345_346	19NC2064	Am	gray	3	34	EMBRAPA 58	G.max	Improved_cultivar	Brazil	
+16NF3451_3452	19NC2343		gray	4	26	TaiWan75(Lv75)	G.max	Improved_cultivar	China	TaiWan
+16NF3455_3456	19NC2344	SR	tawny	4	30	FuDou310	G.max	Improved_cultivar	China	FuJian
+16NF3459_3460	19NC2345	SR	gray	4	27	XiangChunDou10	G.max	Improved_cultivar	China	HuNan
+16NF3485_3486	19NC2348	SR	gray	3	28	ZheXianDou2Hao	G.max	Improved_cultivar	China	ZheJiang
+16NF3491_3492	19NC2350	SR	tawny	3	29	GuiZao1Hao	G.max	Improved_cultivar	China	GuangXi
+16NF3497_3498	19NC2352	SR	tawny	4	29	NanNong99-6	G.max	Improved_cultivar	China	JiangSu
+16NF3511_3512	19NC2358	SR	tawny	4	38	HuaXia9Hao	G.max	Improved_cultivar	China	GuangDong
+16NF3513_3514	19NC2359	SR	tawny	4	36	HuaXia1Hao	G.max	Improved_cultivar	China	GuangDong
+16NF3517_3518	19NC2360	Am	tawny	3	30	DianDou7Hao	G.max	Improved_cultivar	China	YunNan
+16NF3519_3520	19NC2361	SR	gray	4	26	XiangChunDou26	G.max	Improved_cultivar	China	HuNan
+16NF3527_3528	19NC2363	SR	gray	4	32	WuJiangWuYueNiuMaoHuang	G.max	Landrace	China	JiangSu
+16NF3573_3574	19NC2364	SR	tawny	4	32	QingPi3	G.max	Landrace	China	AnHui
+16NF3603_3604	19NC2367	SR	tawny	4	33	JingHuang35Yi	G.max	Landrace	China	HuBei
+16NF3645_3646	19NC2368	SR	tawny	3	36	Cudou1	G.max	Landrace	China	ZheJiang
+16NF3657_3658	19NC2370	SR	gray	3	34	FuShenDou	G.max	Landrace	China	ZheJiang
+16NF3697_3698	19NC2376	SR	tawny	4	31	ZaoHongDou	G.max	Landrace	China	ShangHai
+16NF3705_3706	19NC2379		gray	3	29	74-424	G.max	Improved_cultivar	China	HuBei
+16NF3719_3720	19NC2382	SR	gray	4	31	ChaHuangDaiDou1	G.max	Landrace	China	HuBei
+16NF3757_3758	19NC2386	SR	gray	3	34	DaHuaDou	G.max	Landrace	China	SiChuan
+16NF3763_3764	19NC2387	SR	tawny	3	36	ShiYueHuang1	G.max	Landrace	China	SiChuan
+16NF3771_3772	19NC2389	SR	gray	4	33	JianGeHuaLinJiWoDou	G.max	Landrace	China	SiChuan
+16NF3787_3788	19NC2390	SR	tawny	4	28	QiongLaiYouJiangHeiDou	G.max	Landrace	China	SiChuan
+16NF3789_3790	19NC2391	SR	tawny	4	40	HanYuanBaLiXiaoHeiDou	G.max	Landrace	China	SiChuan
+16NF379_380	19NC2068	Am	tawny	1	30	Bedford	G.max	Improved_cultivar	United_States	Tennessee
+16NF3885_3886	19NC2395	SR	tawny	4	35	MaoYanDou1	G.max	Landrace	China	JiangXi
+16NF389_390	19NC2070	Am	gray	3	33	Prichard	G.max	Improved_cultivar	United_States	Georgia
+16NF3891_3892	19NC2396	SR	tawny	4	33	ShiMenDaBaiLi	G.max	Landrace	China	HuNan
+16NF3927_3928	19NC2401	SR	gray	4	36	HuangPiDaDou	G.max	Landrace	China	GuiZhou
+16NF393_394	19NC2071	Am	gray	2	32	Gordon	G.max	Improved_cultivar	United_States	Georgia
+16NF3949_3950	19NC2402	SR		4	34	LvPiDou-2	G.max	Landrace	China	GuiZhou
+16NF3959_3960	19NC2404	SR	tawny	4	36	ZongZiDou	G.max	Landrace	China	GuiZhou
+16NF3961_3962	19NC2405	SR	tawny	4	33	QingHuangZaDou-15	G.max	Landrace	China	GuiZhou
+16NF3967_3968	19NC2408	SR		3	43	YiGongBao	G.max	Landrace	China	GuangDong
+16NF4017_4018	19NC2418	SR	gray	4	38	XiaoDongHuangDou	G.max	Landrace	China	YunNan
+16NF4025_4026	19NC2419	SR	tawny	3	34	DaDou2	G.max	Landrace	China	YunNan
+16NF4063_4064	19NC2423	SR	tawny	4	29	MaLanZaoChaDou	G.max	Landrace	China	YunNan
+16NF4071_4072	19NC2424	SR	tawny	3	29	BaYueHuang4	G.max	Landrace	China	AnHui
+16NF4093_4094	19NC2428		tawny	4	29	84-70	G.max	Landrace	China	HuBei
+16NF4119_4120	19NC2431	SR	tawny	4	37	BaiHuaHuangPi	G.max	Landrace	China	FuJian
+16NF4127_4128	19NC2432	SR	tawny	3	35	XiaoHuangDou-2	G.max	Landrace	China	FuJian
+16NF415_416	19NC2074	Am	tawny	4	31	Buckshot 723	G.max	Improved_cultivar	United_States	Louisiana
+16NF4199_4200	19NC2443	SR	gray	4	44	ZhaoAnQiuDaDou	G.max	Landrace	China	FuJian
+16NF4221_4222	19NC2447	SR	tawny	4	41	HongZhuDou	G.max	Landrace	China	HuNan
+16NF4223_4224	19NC2448	SR	tawny	3	36	GongChengQingPiDou	G.max	Landrace	China	GuangXi
+16NF4229_4230	19NC2449	SR	tawny	4	40	QiuLiBai	G.max	Landrace	China	ZheJiang
+16NF4233_4234	19NC2450	SR	tawny		39	BaiQiu1Hao	G.max	Improved_cultivar	China	FuJian
+16NF4235_4236	19NC2451	SR	tawny	4	36	PingNanChengGuanShanDou	G.max	Landrace	China	FuJian
+16NF4263_4264	19NC2453	SR	tawny	4	48	ChangShaNiDou	G.max	Landrace	China	HuNan
+16NF4267_4268	19NC2455	SR	gray	3	42	XiZangDaDou5	G.max	Landrace	China	Tibet
+16NF433_434	19NC2075	Am	tawny	3	25	Williams	G.max	Improved_cultivar	United_States	Illinois
+16NF4401	19NC2458		tawny	3	25	NiuMaoHuang2	G.max	Landrace	China	JiLin
+16NF4412	19NC2461		gray	4	26	NiuMaoHuang3	G.max	Landrace	China	LiaoNing
+16NF4416	19NC2463		tawny	4	25	QingDou4	G.max	Landrace	China	HeiLongJiang
+16NF4427	19NC2468	SR	tawny	4	28	MiYangNiuMaoHuang	G.max	Landrace	China	HeNan
+16NF4428	19NC2469		gray	2	27	BenDiDaHuangDou	G.max	Landrace	China	HeBei
+16NF4430	19NC2471	SR	gray	3	28	GuanYunHaiBaiHua	G.max	Landrace	China	JiangSu
+16NF4458	19NC2480	SR	gray	3	28	JiDou12	G.max	Improved_cultivar	China	HeBei
+16NF4460	19NC2481			4	24	HuangDou<2>	G.max	Landrace	China	ShanXi
+16NF4478	19NC2484	SR	tawny	3	28	DaHuangDou-1	G.max	Landrace	China	GuiZhou
+16NF4479	19NC2485		gray	3	26	TuErYan	G.max	Landrace	China	HeBei
+16NF4483	19NC2487	Am	gray	3	25	JiDou7Hao	G.max	Improved_cultivar	China	HeBei
+16NF4486	19NC2488	SR	gray	4	31	HongHuLiuYueBao	G.max	Landrace	China	HuBei
+16NF4488	19NC2489	SR	gray	3	33	BaiMaoDou2	G.max	Landrace	China	GuiZhou
+16NF4491	19NC2491	SR	tawny	4	31	ErJiZaoDou-2	G.max	Landrace	China	GuiZhou
+16NF4498	19NC2526	NR	gray	4	23	NenFeng11Hao	G.max	Improved_cultivar	China	HeiLongJiang
+16NF4499	19NC2527	NR	gray	4	23	HeFeng25Hao	G.max	Improved_cultivar	China	HeiLongJiang
+16NF4506	19NC2531	Am	gray	1	26	GaoZuoXuan1Hao	G.max	Improved_cultivar	China	ShanDong
+16NF4509	19NC2501	NR	gray	3	26	XiaoHuangDou3	G.max	Landrace	China	ShanXi
+16NF4520	19NC2506	SR	gray	3	27	PiXianSiLiCao	G.max	Landrace	China	JiangSu
+16NF4524	19NC2508	SR	tawny	3	31	YaZhouHeiDou	G.max	Landrace	China	HaiNan
+16NF4527	19NC2510	CR	gray	4	26	ZhongMuTieJiaoErCao	G.max	Landrace	China	HeNan
+16NF4537	19NC2512	SR	tawny	3	26	FengChengZaoWuDou	G.max	Landrace	China	JiangXi
+16NF4546	19NC2536		gray	3	25	JinYi9Hao	G.max	Improved_cultivar	China	ShanXi
+16NF4547	19NC2517		tawny	4	25	Tian'eDan4	G.max	Landrace	China	ShanXi
+16NF4554	19NC2545	SR	gray	3	38	QingYuanDaQingDou	G.max	Landrace	China	GuangDong
+16NF4559	19NC2522	SR		4	21	TaiXingHeiDou	G.max	Landrace	China	JiangSu
+16NF4566	19NC2546	SR	tawny	3	32	LongChuanHuangNiuMao	G.max	Landrace	China	GuangDong
+16NF4568	19NC2496	SR	tawny	3	27	DuChangWuDou	G.max	Landrace	China	JiangXi
+16NF4570	19NC2497	SR	tawny	3	24	ZheChengXiaoHongDou	G.max	Landrace	China	HeNan
+16NF4574	19NC2530	Am	tawny	4	24	WuXing1Hao	G.max	Improved_cultivar	China	HeBei
+16NF4579	19NC2500	SR	gray	4	27	FuNanChaDou	G.max	Landrace	China	AnHui
+16NF4586	19NC2504	SR	tawny	4	29	LianJiangPoHuangDou	G.max	Landrace	China	GuangDong
+16NF4587	19NC2505	SR	gray	4	29	DongShanBaiMaDou	G.max	Landrace	China	FuJian
+16NF4605	19NC2543		gray	4	26	ZaoSheng75	G.max	Improved_cultivar	China	ZheJiang
+16NF4616_4617	19NC2524	SR	gray	4	30	LiuYueHuang3	G.max	Landrace	China	SiChuan
+16NF4624_4625	19NC2550	SR		4	30	QuanBian11	G.max	Improved_cultivar	China	FuJian
+16NF4630_4631	19NC2551	SR	gray	4	31	Zheng8516	G.max	Improved_cultivar	China	HeNan
+16NF4634_4635	19NC2552	SR	gray	3	30	YiZhengDaLiHuangDou	G.max	Landrace	China	JiangSu
+16NF4650_4651	19NC2555	SR	gray	3	31	XiChuanJiWoHuang	G.max	Landrace	China	HeNan
+16NF4664_4665	19NC2558	SR	tawny	4	33	DaQingRen	G.max	Improved_cultivar	China	FuJian
+16NF4709	19NC2563	Am	tawny	4	23	Dekafast	G.max	Improved_cultivar	Italy	
+16NF4712	19NC2565		gray	3	23	YanHuang3Hao	G.max	Improved_cultivar	China	ShanDong
+16NF4718	19NC2567	SR	gray	3	27	ZhongHuang22	G.max	Improved_cultivar	China	BeiJing
+16NF481_482	19NC2079	Am	tawny	3	25	Elf	G.max	Improved_cultivar	United_States	Illinois
+16NF497_498	19NC2084	Am	tawny	3	32	Bolivar	G.max	Improved_cultivar	United_States	Mississippi
+16NF523_524	19NC2087	Am	tawny	1	25	D83-3349	G.max	Improved_cultivar	United_States	
+16NF525_526	19NC2088			3	31	PI157440	G.max	Landrace	South_Korea	Kyonggi
+16NF625_626	19NC2095	Am	tawny	1	31	Stonewall	G.max	Improved_cultivar	United_States	Alabama
+16NF645_646	19NC2096	NR	gray	3	24	LongHuang1Hao	G.max	Improved_cultivar	China	HeiLongJiang
+16NF97_98	19NC2019		gray	4	26	GuanDong102	G.max	Improved_cultivar	Japan	
+16NF99_100	19NC2020		gray	3	26	ZhongTe1Hao	G.max	Improved_cultivar	Japan	
+HN64	19NC2668	Am	gray		23	HeNong64	G.max	Improved_cultivar	China	HeiLongJiang
+HN66	19NC2670	NR	gray		23	HeNong66	G.max	Improved_cultivar	China	HeiLongJiang
+QLJ67	19NC2684	NR	gray		23	DongNong48	G.max	Improved_cultivar	China	HeiLongJiang
+QLJ80	19NC2687	NR	gray		23	Sheng168	G.max	Improved_cultivar	China	NeiMengGu
+QLJ93	19NC2688	NR	gray		22	BeiDou37	G.max	Improved_cultivar	China	HeiLongJiang
+TSZY107	19NC2692	SR	gray		33	NanNong415	G.max	Improved_cultivar	China	JiangSu
+TSZY119	19NC2697		gray		26	ZheXianDou8Hao	G.max	Improved_cultivar	China	ZheJiang
+Z4	19NC2713	Am	gray	4	28	Essex	G.max	Improved_cultivar	United_States	Virginia
+ZJ602			gray			Zhongji602	G.max	Improved_cultivar	China	Jilin
