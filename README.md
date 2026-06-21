@@ -1,11 +1,11 @@
 # A Practical Guide to Proteome-Wide Association Study (PWAS) in Plants: The Soybean Example
 
-A Proteome-Wide Association Study (PWAS) that directly tests the association between measured protein abundance and a trait within a diversity panel is termed **direct PWAS**, distinguishing it from **indirect PWAS**, an approach common in human genetics that integrates pQTL and GWAS results.
+A Proteome-Wide Association Study (PWAS) that directly tests the association between measured protein abundance and a trait within a diversity panel is termed **direct PWAS**, distinguishing it from **inferred PWAS**, an approach common in human genetics that integrates pQTL and GWAS results.
 
-This repository demonstrates how to prepare data for and perform a **direct PWAS** in plants, using soybean pubescence color and soybean cyst nematode (SCN) resistance as example traits from a diversity panel of 200 soybean accessions. Guidance is also provided for integrating our previously published pQTL data with your own soybean GWAS results—an approach referred to as **indirect PWAS**.
+This repository demonstrates how to prepare data for and perform a **direct PWAS** in plants, using soybean pubescence color and soybean cyst nematode (SCN) resistance as example traits from a diversity panel of 200 soybean accessions. Guidance is also provided for integrating our previously published pQTL data with your own soybean GWAS results—an approach referred to as **inferred PWAS**.
 
 - [Direct PWAS using measured protein data](#direct-pwas-using-measured-protein-data)
-- [Perspectives for indirect PWAS](#perspectives-for-indirect-pwas)
+- [Perspectives for inferred PWAS](#perspectives-for-inferred-pwas)
 - [FAQ](#faq)    
 - [Citation](#citation)
 
@@ -117,9 +117,9 @@ Below is the manhatton plot of SCN PWAS.
 
 ![](image/Soybean.PWAS_Seedling_SCN.CMLM.png)
 
-## Perspectives for Indirect PWAS
+## Perspectives for inferred PWAS
 
-Indirect PWAS involves integrating our pQTL summary statistics with your own GWAS results—an approach commonly employed in human and animal studies. Three primary analytical strategies are available: **colocalization**, **Mendelian randomization (MR)**, and **FUSION**. 
+Inferred PWAS involves integrating our pQTL summary statistics with your own GWAS results—an approach commonly employed in human and animal studies. Three primary analytical strategies are available: **colocalization**, **Mendelian randomization (MR)**, and **FUSION**. 
 
 - **Colocalization** can be implemented immediately using your pQTL summary statistics.  
 - **Mendelian randomization (MR)** requires careful selection of instrumental variables and thorough sensitivity analyses.  
@@ -157,6 +157,12 @@ In our PWAS study, both traits for which we recovered known causal genes (pubesc
 - **Mixed Linear Model (MLM):** Well-suited for qualitative traits and quantitative traits with moderate to high heritability.
 
 - **FarmCPU:** This model offers enhanced statistical power for complex traits with low heritability. However, because FarmCPU iteratively includes associated markers as covariates, it may inadvertently suppress genuine associations in PWAS. While this built‑in control for confounding is highly effective in standard SNP‑based GWAS, it can lead to false negatives in PWAS analyses—**signals that conventional Mixed Linear Models may retain.**
+  
+  
+#### 5. Are sample replicates necessary for protein abundance? 
+  
+  **Answer:** Biological replicates are important, especially for current protein platform, for improving the precision of protein abundance measurements. However, when the total sample number is limited by budget, we **recommend prioritizing population diversity over within‑genotype replication**. A large number of accessions with shared genetic backgrounds effectively provides pseudo‑biological replicates, preserving statistical power for pQTL detection despite the absence of true replicates. In our study, we used 200 genetically related soybean accessions without biological replicates, rather than 67 accessions with three replicates each. Genetic diversity is always the key of a genetic study.
+  
 
 ---
 
