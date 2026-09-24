@@ -168,6 +168,7 @@ In our PWAS study, both traits for which we recovered known causal genes (pubesc
 
 ## Citation
 
-If you use the data or the direct PWAS strategy presented in this repository, please consider to cite our **coming paper**:
+If you use the data or the direct PWAS strategy presented in this repository, please consider to cite our published paper:
 
-Li, D., Li, Z., Guo, S., Wang, Q., Feng, X., Zhang, H., Schnable, J. C., Li, Y.-H., Qiu, L.-J. (2026) From DNA to RNA to protein: pQTL mapping and Proteome-Wide Association Study uncover protein-level drivers of soybean traits. *under review*.
+Li D., Li Z., Guo S., Wang Q., Feng X., Zhang H., Schnable J.C., Li Y.-H., and Qiu L.-J. (2026). From DNA to RNA to protein: pQTL mapping and Proteome-Wide Association Study reveal protein-level drivers of soybean traits. Molecular Plant doi: https://doi.org/10.1016/j.molp.2026.09.011.
+
